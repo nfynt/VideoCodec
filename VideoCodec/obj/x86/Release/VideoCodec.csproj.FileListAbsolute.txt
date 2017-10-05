@@ -1,0 +1,12 @@
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\VideoCodec.exe.config
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\VideoCodec.exe
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\VideoCodec.pdb
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.Video.FFMPEG.dll
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.Video.dll
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.dll
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.Video.FFMPEG.xml
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.Video.xml
+D:\Shubham_Data\VideoCodec\VideoCodec\bin\x86\Release\AForge.xml
+D:\Shubham_Data\VideoCodec\VideoCodec\obj\x86\Release\VideoCodec.csproj.CoreCompileInputs.cache
+D:\Shubham_Data\VideoCodec\VideoCodec\obj\x86\Release\VideoCodec.exe
+D:\Shubham_Data\VideoCodec\VideoCodec\obj\x86\Release\VideoCodec.pdb
